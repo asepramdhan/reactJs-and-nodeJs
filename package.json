@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/asepramdhan/reactJs-and-nodeJs/issues"
   },
-  "homepage": "https://github.com/asepramdhan/reactJs-and-nodeJs#readme"
+  "homepage": "https://github.com/asepramdhan/reactJs-and-nodeJs#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mysql2": "^2.2.5"
+  }
 }
